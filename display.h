@@ -1,3 +1,9 @@
+/**
+
+* Author : Pradeep Kavida Kotuwegedara
+*/
+
+
 #include <Adafruit_GFX.h> 
 #include <Adafruit_ST7735.h> 
 #include <Wire.h>
