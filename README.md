@@ -1,17 +1,5 @@
-# deps
-  
-     All dependencies are included in this git.
+# Adafruit_Seesaw [![Build Status](https://github.com/adafruit/Adafruit_Seesaw/workflows/Arduino%20Library%20CI/badge.svg)](https://github.com/adafruit/Adafruit_Seesaw/actions)[![Documentation](https://github.com/adafruit/ci-arduino/blob/master/assets/doxygen_badge.svg)](http://adafruit.github.io/Adafruit_Seesaw/html/index.html)
 
-```
-[env:lionbit]
-platform = espressif32
-board = lionbit
-framework = arduino
-speed_monitor = 115200
+Arduino driver for seesaw multi-use chip
 
-lib_deps = 
-    https://github.com/LionBit-Sri-Lanka/deps.git
-
-
-
-```
+Check out the [documentation](https://adafruit.github.io/Adafruit_Seesaw/html/class_adafruit__seesaw.html) for a listing and explanation of the available methods!
